@@ -68,7 +68,7 @@ class User:
         self.initial_page()
 
     def update_login(self):
-        pass
+        print("nima gap")
 
     def update_password(self):
         pass
