@@ -1,0 +1,2 @@
+name=Shrek|password=123123
+name=Aziz|password=abs123
